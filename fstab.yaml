@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p8756-e988970.adobeaemcloud./bin/franklin.delivery/ann-chapman/eds-universal-editor/main"
+    url: "https://author-p8756-e988970.adobeaemcloud.com/bin/franklin.delivery/ann-chapman/eds-universal-editor/main"
     type: "markup"
     suffix: ".html"
